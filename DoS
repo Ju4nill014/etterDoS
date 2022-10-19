@@ -42,7 +42,7 @@ echo "#    We do a little trolling...    #"
 echo "####################################"
 
 echo "#################################################################################################"
-echo "# Author: Guillermo Jimenez                                                                     #"
+echo "# Author: Juan Lobón                                                                            #"
 echo "# Description: Intercepts and kills all connections of the target host's IP using ARP Poisoning #"
 echo "# For educational purposes only                                                                 #"
 echo "# You may end the attack by pressing Q                                                          #"
